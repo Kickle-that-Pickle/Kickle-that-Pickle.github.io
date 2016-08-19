@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: blue;
     font-size: 110%;
     background:gray;
     padding: 4px;
@@ -54,7 +54,7 @@ img{
 }
 
 .button {
-    background: white;
+    background: brown;
     font-size: 110%;
     color:gray;
     padding: 4px;
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: rgb(215, 206, 0);
     color:  rgb(215, 206, 199);
 }
 
